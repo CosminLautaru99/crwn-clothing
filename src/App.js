@@ -1,6 +1,8 @@
-
-import HomePageComponent from './Homepage.component';
-
+//packages
+import React from 'react';
+//components
+import HomePageComponent from './components/pages/Homepage.component';
+//styles
 import './App.css';
 
 function App() {
